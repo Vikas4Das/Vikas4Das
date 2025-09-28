@@ -43,25 +43,23 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 
----
+
+
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="40%"/>
+</p>
+
+
+
+<p align="center">
+  <a href="vikas4das.github.io/Portfolio/">
+  </a>
+</p>
+
 
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 </p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="50%"/>
-</p>
-
----
-
-<p align="center">
-  <a href=["https://visitcount.itsvg.in](https://vikas4das.github.io/Portfolio/)">
-  </a>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
