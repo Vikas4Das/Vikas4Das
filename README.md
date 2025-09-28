@@ -34,56 +34,35 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-<!-- Row: Main stats - three cards, equal height for visual consistency -->
+
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-       alt="GitHub Stats"
-       height="140"
-       style="margin:6px;" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false"
-       alt="Streak Stats"
-       height="140"
-       style="margin:6px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-       alt="Top Languages"
-       height="140"
-       style="margin:6px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 
-<!-- Horizontal spacer -->
-<p align="center"> </p>
+---
 
-<!-- Random dev quote (keeps same style / size) -->
+## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-       alt="Random Dev Quote"
-       height="60"
-       style="margin:6px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 </p>
 
-<!-- Top contributed repo / contributor stats -->
+---
+
+## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true"
-       alt="Top Contributed Repo"
-       height="120"
-       style="margin:6px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
 </p>
 
-<!-- Visitor count -->
+---
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0"
-         alt="Visitor Count"
-         height="32"
-         style="margin:6px;" />
+    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Profile Visits" />
   </a>
 </p>
 
-<!-- Footer credit -->
-<p align="center">
-  <sub> <!-- small text -->
-    Proudly created with GPRM — <a href="https://gprm.itsvg.in">gprm.itsvg.in</a>
-  </sub>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
