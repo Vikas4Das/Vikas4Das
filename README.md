@@ -34,9 +34,8 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-br
-br
-br
+
+
 
 ##
 <p align="center">
@@ -45,9 +44,10 @@ br
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 
-br
-br
-br
+
+
+
+
 
 ## 
 <p align="center">
@@ -55,10 +55,13 @@ br
 </p>
 
 
+<p align="center">
+  <a href="https://vikas4das.github.io/Portfolio/
+       ">
+    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Profile Visits" />
+  </a>
+</p>
 
-br
-br
-br
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 </p>
