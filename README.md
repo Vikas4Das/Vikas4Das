@@ -58,7 +58,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="center">
   <a href="https://vikas4das.github.io/Portfolio/
        ">
-    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Profile Visits" />
+    <img src="https://github.com/Vikas4Das/Vikas4Das/blob/main/pngaaa.com-280437.png" alt="Profile Visits" />
   </a>
 </p>
 
