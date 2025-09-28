@@ -54,14 +54,13 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="50%"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Profile Visits" />
+  <a href=["https://visitcount.itsvg.in](https://vikas4das.github.io/Portfolio/)">
   </a>
 </p>
 
