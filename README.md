@@ -37,7 +37,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-##
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" height="150" />
@@ -49,7 +49,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-## 
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="40%"/>
 </p>
@@ -58,7 +58,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="center">
   <a href="https://vikas4das.github.io/Portfolio/
        ">
-    <img src="https://github.com/Vikas4Das/Vikas4Das/blob/main/pngaaa.com-280437.png" alt="Profile Visits" />
+    <img src="https://github.com/Vikas4Das/Vikas4Das/blob/main/" alt="Profile Visits" />
   </a>
 </p>
 
