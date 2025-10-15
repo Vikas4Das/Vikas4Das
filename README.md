@@ -37,32 +37,38 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <!-- GitHub Streak Stats -->
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+    <td>
+      <!-- Random Dev Quote -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+  </tr>
+</table>
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="40" height="40" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" width="40" height="40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40" height="40" />
-</p>
+<br/>
 
+<!-- Top Contributed Repo in full width -->
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
+<br/>
 
+<!-- Visitor Count -->
+[![](https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="40" height="40"/>
-</p>
-
-
-<p align="center">
-  <a href="https://vikas4das.github.io/Portfolio/
-       ">
-    <img src="https://github.com/Vikas4Das/Vikas4Das/blob/main/" alt="Profile Visits" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
