@@ -63,7 +63,6 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
     </td>
   </tr>
 </table>
-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="770"/>
       </td>
     </tr>
   </table>
