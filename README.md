@@ -68,15 +68,3 @@ dark&hide_border=false&include_all_commits=true&count_private=false&layout=compa
     </tr>
   </table>
 
-  <!-- Top Contributed Repo -->
-  <h3 style="margin-top: 20px;">🔝 Top Contributed Repos</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" width="770"/>
-
-  <!-- Visit Counter -->
-  <div style="margin-top: 20px;">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Visit Count"/>
-    </a>
-  </div>
-
-</div>
