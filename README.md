@@ -34,32 +34,36 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px; text-align:center;">
 
-  <!-- GitHub Stats -->
-  <div style="flex:1 1 300px; max-width:300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width:100%; height:auto; border-radius:10px;">
-  </div>
+ 
+  
+ <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:15px; text-align:center;">
 
   <!-- Streak Stats -->
-  <div style="flex:1 1 300px; max-width:300px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" alt="GitHub Streak" style="width:100%; height:auto; border-radius:10px;">
+  <div style="flex:1 1 200px; max-width:200px; border-radius:10px; overflow:hidden;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" alt="GitHub Streak" style="width:100%; height:auto;">
+  </div>
+  
+  <!-- GitHub Stats -->
+  <div style="flex:1 1 200px; max-width:200px; border-radius:10px; overflow:hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width:100%; height:auto;">
   </div>
 
   <!-- Top Languages -->
-  <div style="flex:1 1 300px; max-width:300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width:100%; height:auto; border-radius:10px;">
+  <div style="flex:1 1 200px; max-width:200px; border-radius:10px; overflow:hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width:100%; height:auto;">
   </div>
 
   <!-- Top Contributed Repos -->
-  <div style="flex:1 1 300px; max-width:300px;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" style="width:100%; height:auto; border-radius:10px;">
+  <div style="flex:1 1 200px; max-width:200px; border-radius:10px; overflow:hidden;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" style="width:100%; height:auto;">
   </div>
 
 </div>
 
 <!-- Visitor Counter -->
-<div style="text-align:center; margin-top:20px;">
+<div style="text-align:center; margin-top:15px;">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Visitor Count">
+    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Visitor Count" style="width:150px;">
   </a>
 </div>
 
