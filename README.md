@@ -34,7 +34,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-
+<center>
 <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px; justify-items:center; align-items:center; text-align:center;">
 
   <!-- GitHub Streak -->
@@ -56,10 +56,4 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 </div>
-
-<!-- Visitor Counter -->
-<div style="text-align:center; margin-top:10px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Visitor Count" style="width:40px;">
-  </a>
-</div>
+</center>
