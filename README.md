@@ -34,39 +34,7 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
-
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
-
-<!-- Top Contributed Repos -->
-<img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-[![Profile Views](https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<!-- Proudly created with GPRM -->
-<div align="center">
-<p>✨ Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></p>
-</div><!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
 
   <!-- Stats & Streaks -->
@@ -98,4 +66,3 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
   </div>
 
 </div>
-
