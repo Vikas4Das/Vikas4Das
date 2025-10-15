@@ -66,4 +66,36 @@ src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <!-- Proudly created with GPRM -->
 <div align="center">
 <p>✨ Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></p>
+</div><!-- GitHub Stats Section -->
+<div align="center">
+
+  <!-- Stats & Streaks -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="380"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=vikas4das&theme=dark&hide_border=false" alt="GitHub Streak" width="380"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas4das&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="770"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Top Contributed Repo -->
+  <h3 style="margin-top: 20px;">🔝 Top Contributed Repos</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=vikas4das&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" width="770"/>
+
+  <!-- Visit Counter -->
+  <div style="margin-top: 20px;">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=vikas4das&icon=0&color=0" alt="Visit Count"/>
+    </a>
+  </div>
+
 </div>
+
